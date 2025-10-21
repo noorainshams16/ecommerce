@@ -4,15 +4,15 @@
 }
 @media only screen and(min-width:600px){
     .header{
-        min-height: 50vh;
-        width:50%;
+        min-height: 80vh;
+        width:80%;
     }
     .navbar{
-    padding:6px 8px;
-    top:50%;left:0;right:0;
+    padding:10px 12px;
+    top:80%;left:0;right:0;
 }
     .icon{
-    padding:8px 8px;
+    padding:12px 12px;
     font-size:10px;
 }
     .box-container{
@@ -297,6 +297,7 @@ img{
 
 
  
+
 
 
 
