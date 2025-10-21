@@ -257,28 +257,7 @@ img{
 @media only screen and(max-width:600px){
     html{
         font-size:50%;
-    }
-    .header .fa-bars{
-        display:block;
-    }
-    header .navbar{
-        position:absolute;
-        top:100%; left:0; right:0;
-        background:aliceblue;
-        border-top: .1rem solid rgb(80, 79, 79);
-        clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
-    }
-    header #toggler:checked ~ .navbar{
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-    }
-    header .navbar{
-        margin:1.5rem;
-        padding:1.5rem;
-        background:aliceblue;
-        border-top: .1rem solid rgb(80, 79, 79);
-        display:block;
-    }
-    
+    } 
     .img{
         max-width:100%;
         height:auto;
@@ -291,6 +270,7 @@ img{
 
 
  
+
 
 
 
