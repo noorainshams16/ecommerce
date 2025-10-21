@@ -57,10 +57,11 @@
     font-family:arial;
 }
 .div3{
-    padding:5px;
+    padding:5px 2px;
     float:middle;
     color:rgb(2, 2, 2);
     font-size:30px;
+    font-size:.3rem;
     font-family:arial;
 }
 .div4{
@@ -283,6 +284,7 @@ img{
 
 
  
+
 
 
 
