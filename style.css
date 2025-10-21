@@ -4,16 +4,16 @@
 }
 @media only screen and(min-width:600px){
     .header{
-        min-height: 80vh;
-        width:80%;
+        min-height: 200vh;
+        width:100%;
     }
     .navbar{
-    padding:10px 12px;
-    top:80%;left:0;right:0;
+    padding:20px 20px;
+    top:100%;left:0;right:0;
 }
     .icon{
-    padding:12px 12px;
-    font-size:10px;
+    padding:20px 20px;
+    font-size:20px;
 }
     .box-container{
     flex-direction: column;
@@ -297,6 +297,7 @@ img{
 
 
  
+
 
 
 
