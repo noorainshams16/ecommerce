@@ -188,9 +188,9 @@ img{
     display: flex;
     align-items: centre;
     justify-content: center;
-    height: 6vh;
+    height: 12vh;
     position: relative;
-    width: 280px;
+    width: 400px;
     border-radius: 50px;
     border: solid var(--white);
     background-color: #8b8a8b;
@@ -200,8 +200,8 @@ img{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-size: 1rem;
-    font-weight: 500;
+    font-size: 2.2rem;
+    font-weight: 700;
     padding: 1rem 1.5rem;
     transform: margin-left .2s ease;
 }
@@ -222,8 +222,8 @@ img{
     max-height: 600px;
 }
 .dropdown-list-item{
-    font-size: 1.1rem;
-    font-weight: 500;
+    font-size: 2.2rem;
+    font-weight: 700;
     padding: 1rem 0 1rem 1.5rem;
     transition: margin-left .2s ease;
 }
@@ -270,6 +270,7 @@ img{
 
 
  
+
 
 
 
